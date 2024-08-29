@@ -1,1 +1,1 @@
-console.log("Practice Code 1");
+console.log("Practice Code 2");
